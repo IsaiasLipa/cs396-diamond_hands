@@ -1,1 +1,1 @@
-# cs396-dimond_hands
+# cs396-diamond hands
